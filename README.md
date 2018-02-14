@@ -1,4 +1,4 @@
-# order - Schedule of treatments
+# Schedule of treatments
 
 ## Deployment
 
